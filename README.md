@@ -1,5 +1,5 @@
 # tracking-uas
-Basic UAS control with AI object tracking
+Basic UAS control with AI object tracking to allow a UAS to track a moving landing zone (say, quadcoptor landing on moving boat or trailer)
 
 Project to combine multiple areas of interest.  Some have been well-defined and it would be easier to "stand on the shoulders of giants", but starting from nothing enables a low-level understanding, so...
 
